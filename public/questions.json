@@ -1,0 +1,32 @@
+[
+  {
+      "id": 1,
+      "text": "Which agent has the ability to heal teammates?",
+      "options": ["Sage", "Phoenix", "Jett", "Reyna"],
+      "correctAnswer": "Sage"
+  },
+  {
+      "id": 2,
+      "text": "What is the maximum number of rounds in a standard Valorant match?",
+      "options": ["24", "26", "30", "28"],
+      "correctAnswer": "24"
+  },
+  {
+      "id": 3,
+      "text": "Which agent is known for their teleportation abilities?",
+      "options": ["Yoru", "Omen", "Jett", "Raze"],
+      "correctAnswer": "Yoru"
+  },
+  {
+      "id": 4,
+      "text": "What is the name of the map with the teleporters?",
+      "options": ["Bind", "Split", "Haven", "Ascent"],
+      "correctAnswer": "Bind"
+  },
+  {
+      "id": 5,
+      "text": "Which agent uses a bow and arrow?",
+      "options": ["Sova", "Brimstone", "Cypher", "Phoenix"],
+      "correctAnswer": "Sova"
+  }
+]
